@@ -2037,6 +2037,7 @@
 				GCC_PREFIX_HEADER = Cocos2dxSample/Prefix.pch;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				INFOPLIST_FILE = Cocos2dxSample/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Cocos2dxSample/libs/cocos2dx/platform/third_party/ios/libraries\"",
@@ -2060,6 +2061,7 @@
 				GCC_PREFIX_HEADER = Cocos2dxSample/Prefix.pch;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				INFOPLIST_FILE = Cocos2dxSample/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Cocos2dxSample/libs/cocos2dx/platform/third_party/ios/libraries\"",
